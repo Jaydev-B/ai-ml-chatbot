@@ -6,13 +6,13 @@ Flask-Cors==3.0.3
 blinker==1.4
 
 bs4==0.0.1
-html2text==2017.10.4
-simplejson==3.13.2
-pytest==3.4.2
+html2text
+simplejson
+pytest
 
-scipy==1.4.1
+scipy
 numpy
-pandas==0.25.2
+pandas
 
 spacy==2.2.2
 
