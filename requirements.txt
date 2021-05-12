@@ -1,11 +1,11 @@
 
-Flask==0.12.4
-flask-mongoengine==0.9.5
-Flask-Script==2.0.6
-Flask-Cors==3.0.3
-blinker==1.4
+Flask
+flask-mongoengine
+Flask-Script
+Flask-Cors
+blinker
 
-bs4==0.0.1
+bs4
 html2text
 simplejson
 pytest
@@ -18,13 +18,13 @@ spacy
 
 scikit-learn
 cloudpickle
-h5py==2.7.1
+h5py
 tensorflow
 
-parsedatetime==2.4
-python-crfsuite==0.9.5
-python-dateutil==2.6.1
-requests==2.18.4
+parsedatetime
+python-crfsuite
+python-dateutil
+requests
 
 gunicorn
-gevent==1.2.2
+gevent
